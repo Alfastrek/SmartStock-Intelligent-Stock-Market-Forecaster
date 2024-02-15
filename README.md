@@ -1,4 +1,4 @@
-# SmartStock: Your Intelligent Stock Market Forecaster 📈🤖
+# SmartStock: Intelligent Stock Market Forecaster 📈🤖
 
 This project aims to predict stock market movements using machine learning algorithms, particularly Random Forest, to assist traders and investors in making informed decisions.
 
